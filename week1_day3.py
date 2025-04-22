@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-def plot_orbit(a=1.496e9,e=0.0167, n=100):
+def plot_orbit(a=1.496e9,e=0.5167, n=100):
     """
     plot elliptical orbit.
     a: semi-major axis (meters)
